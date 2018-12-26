@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@media (min-width:320px)  {
+	body{
+		font-size: 20px;
+	  }
+}
+@media (min-width:480px)  {
+	body{
+		font-size: 25px;
+}
+@media (min-width:1281px)  {
+	body{
+		font-size: 30px;
+	}
+}
+html{
+	font-family: 'Lora', serif;
+}
+body{
+	background: #F1EBDF;
+}
+header{
+	text-align: center;
+}
+.section__text{
+	text-align: center;
+}
+
